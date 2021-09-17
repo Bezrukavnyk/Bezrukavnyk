@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, my name **Ihor**!👋
+## I am *Front-end developer* from Dnipro
+### Mail my: ***ibezrukavnyk@gmail.com***
 
 <!--
 **Bezrukavnyk/Bezrukavnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
